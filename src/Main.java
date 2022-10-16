@@ -97,6 +97,7 @@ public class Main {
                 System.out.print(" , ");
             }
             System.out.print(numberBoxes3[a]);
+
         }
     }
 }
